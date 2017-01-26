@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ball color change.unity
+  isLoaded: 1
+  isActive: 1
