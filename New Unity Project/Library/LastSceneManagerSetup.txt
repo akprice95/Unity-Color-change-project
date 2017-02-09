@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Math Operations.unity
+- path: Assets/if Assignment.unity
   isLoaded: 1
   isActive: 1
