@@ -81,8 +81,11 @@
     <Compile Include="Assets\Move.cs" />
     <Compile Include="Assets\NewBehaviourScript.cs" />
     <Compile Include="Assets\Rotate.cs" />
+    <Compile Include="Assets\SwitchInClass.cs" />
+    <Compile Include="Assets\SwitchInClass2.cs" />
     <Compile Include="Assets\VariablesandOporators.cs" />
     <Compile Include="Assets\elseAssignment.cs" />
+    <Compile Include="Assets\switchAssignment.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
