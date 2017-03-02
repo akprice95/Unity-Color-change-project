@@ -57,5 +57,7 @@ public class Listhomework : MonoBehaviour
     }
     
 
-}
 
+}
+//In this Assignment I learned about list and how you can set functions with different buttons. My favorite part was applying the functions to each indidual button. I learned that you could have all th functions in the code
+//and then take each one individually out of the code to apply them to a button.
