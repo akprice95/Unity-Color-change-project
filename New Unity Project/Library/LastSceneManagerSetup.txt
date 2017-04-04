@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/if Assignment.unity
+- path: Assets/sub assignment.unity
   isLoaded: 1
   isActive: 1
