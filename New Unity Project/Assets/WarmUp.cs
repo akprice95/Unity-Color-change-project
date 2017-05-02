@@ -38,12 +38,12 @@ public class WarmUp : MonoBehaviour {
       List<string> randomNum = new List<string>();
 
 
-       for ( int i=0; i  < totalNumbers; i++)
+     /*  for ( int i=0; i  < totalNumbers; i++)
         {
           int number = (Random.Range(0, 100));
 
             number.Add(randomNum);
-        }
+        } */
 
     }
 	

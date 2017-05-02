@@ -76,6 +76,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Arrayhomework.cs" />
+    <Compile Include="Assets\Final.cs" />
     <Compile Include="Assets\Foreach.cs" />
     <Compile Include="Assets\IfElseStatments.cs" />
     <Compile Include="Assets\Ifassignment.cs" />
